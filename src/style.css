@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
 :root {
-    --success-color: rgb(45, 75, 15);
-    --error-color: #700b08;
+    --success-color: rgb(98, 163, 33);
+    --error-color: #f7312b;
 }
 
 * {
@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: rgb(41, 105, 156);
+    background-color: rgb(76, 116, 189);
     font-family: "Open Sans", sans-serif;
     display: flex;
     align-items: center;
@@ -32,7 +32,7 @@ h2 {
 
 .form {
     padding: 30px 40px;
-    color: cornsilk;
+    /* color: cornsilk; */
 }
 
 .form-control {
